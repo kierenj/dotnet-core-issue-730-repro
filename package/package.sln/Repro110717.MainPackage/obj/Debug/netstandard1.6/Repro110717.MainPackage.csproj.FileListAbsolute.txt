@@ -1,0 +1,8 @@
+C:\git\kierenj\repro-110717\package\package.sln\Repro110717.MainPackage\bin\Debug\netstandard1.6\Repro110717.MainPackage.deps.json
+C:\git\kierenj\repro-110717\package\package.sln\Repro110717.MainPackage\bin\Debug\netstandard1.6\Repro110717.MainPackage.dll
+C:\git\kierenj\repro-110717\package\package.sln\Repro110717.MainPackage\bin\Debug\netstandard1.6\Repro110717.MainPackage.pdb
+C:\git\kierenj\repro-110717\package\package.sln\Repro110717.MainPackage\obj\Debug\netstandard1.6\Repro110717.MainPackage.csproj.CoreCompileInputs.cache
+C:\git\kierenj\repro-110717\package\package.sln\Repro110717.MainPackage\obj\Debug\netstandard1.6\Repro110717.MainPackage.AssemblyInfoInputs.cache
+C:\git\kierenj\repro-110717\package\package.sln\Repro110717.MainPackage\obj\Debug\netstandard1.6\Repro110717.MainPackage.AssemblyInfo.cs
+C:\git\kierenj\repro-110717\package\package.sln\Repro110717.MainPackage\obj\Debug\netstandard1.6\Repro110717.MainPackage.dll
+C:\git\kierenj\repro-110717\package\package.sln\Repro110717.MainPackage\obj\Debug\netstandard1.6\Repro110717.MainPackage.pdb
