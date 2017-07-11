@@ -13,8 +13,11 @@ namespace ConsumerWeb.Controllers
 		{
 			ViewBag.Title = "Home Page";
 
-			var x = new Class1();
-
+			var types = typeof(Class1).Assembly.GetExportedTypes();
+			var type = types.Single();
+			var member = type.GetMember("IsWorking").Single();
+			var attribs = member.GetCustomAttributes(false);
+			
 			return View();
 		}
 	}
